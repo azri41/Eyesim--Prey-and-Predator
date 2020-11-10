@@ -1,0 +1,9 @@
+# Environment
+world 00-field.maz
+
+# Set visualization on for PSD
+settings VIS TRACE
+
+# Robot description using "S" and "U" in maze as start position
+S4 S 100 02-prey.py
+S4 U 65 03-predator.py
